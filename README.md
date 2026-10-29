@@ -1,7 +1,7 @@
 # Rhetoric
 <div align="center">
   
-![Screenshot of Rhetoric](https://github.com/yeri63/Rhetoric/blob/master/rhetoric.png)
+![Screenshot of Rhetoric](rhetoric.png)
 </div>
 <p>Rhetoric is the art, study, and practice of effective, persuasive speaking or writing. It investigates how language shapes beliefs, motivates action, and influences an audience.</p>
 <p>In an argument, rhetoric is the vehicle that makes logical claims resonant and compelling to a specific audience. While an argument provides the structural backbone (claims, reasons, and evidence), rhetoric determines how those points are delivered and adapted.</p>
